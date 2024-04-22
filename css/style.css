@@ -178,7 +178,8 @@ color: #F697A4;
 	margin: 5px 0 20px;
 	font-weight: 400;
 	font-size: 16px;
-	color: #B1B1B1;
+	color: #FFE0DE;
+
 	font-family: "Lora";
 	font-style: italic;
 }
@@ -231,7 +232,7 @@ color: #F697A4;
 	font-size: 17px;
 	font-weight: 400;
 	line-height: 28px;
-	color: #000;
+	color: #FFE0DE;
 	letter-spacing: 0.1px;
 	margin-bottom: 30px;
 }
