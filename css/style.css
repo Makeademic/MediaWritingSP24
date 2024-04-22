@@ -9,6 +9,8 @@ hover color:	#fed136 (yellow)
 body {
 	font-family: "Raleway", Sans-serif;
 	-webkit-font-smoothing: antialiased;
+	background-color: #0E1735;
+	color: #FFE7E8;
 }
 h1,
 h2,
@@ -20,24 +22,24 @@ h6 {
 	font-weight: 700;
 	font-style: normal;
 	font-family: "Raleway", Sans-serif;
-	color: #4A4A4A;
+	color: #F697A4;
 }
 p {
 	font-family: 'Raleway', sans-serif;
 	font-size: 15px;
 	font-weight: 400;
 	line-height: 24px;
-	color: #000;
+	color: #FFE0DE;
 }
 img {
 	max-width: 100%;
 	height: auto;
 }
 a {
-    color: #4A4A4A;	
+    color: #FFFFFF;	
 }
 a:hover, a:focus, a:active, a.active {
-	color: #fec503;
+	color: #F697A4;
 }
 a, a:hover, a:focus, a:active, a.active {
 	outline: 0;
