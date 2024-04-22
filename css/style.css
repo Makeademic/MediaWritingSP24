@@ -155,23 +155,24 @@ header {
 	padding: 15px 0px 20px;
 	font-size: 41px;
 	line-height: 49px;
+	color: #F697A4;
 }
 .blog-post .blog-post-body p {
 	text-align: justify;
 	font-size: 20px;
 	font-weight: 300;
 	line-height: 30px;
-	color: #000;
+	color: #FFE0DE;
 }
 .blog-post .blog-post-body a {
-	color: #4A4A4A;
+	color: #FFFFFF;	
 	-webkit-transition: all 0.2s ease-out;
 	-moz-transition: all 0.2s ease-out;
 	-o-transition: all 0.2s ease-out;
 	transition: all 0.2s ease-out;
 }
 .blog-post .blog-post-body a:hover  {
-	color: #dddddd;
+color: #F697A4;
 }
 .blog-post .post-meta {
 	margin: 5px 0 20px;
